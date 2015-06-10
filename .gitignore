@@ -1,0 +1,71 @@
+# =============== #
+# Unity generated #
+# =============== #
+obj
+Temp
+
+UnityGenerated/
+Library/
+WebBuild/
+#Library/cache/*
+#Library/metadata/*
+#Library/previews/*
+#Library/ScriptAssemblies/*
+
+# ===================================== #
+# Visual Studio / MonoDevelop generated #
+# ===================================== #
+ExportedObj/
+*.svd
+*.userprefs
+*.csproj
+*.pidb
+*.suo
+*.sln
+*.user
+*.unityproj
+*.booproj
+*.tmprojz
+
+# ============ #
+# OS generated #
+# ============ #
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+Icon?
+ehthumbs.db
+Thumbs.db
+
+AnnotationManager
+assetDatabase3
+AssetImportState
+assetservercachev3
+AssetServerCacheV3
+AssetVersioning.db
+AudioManager.asset
+BuildPlayer.prefs
+BuildSettings.asset
+DynamicsManager.asset
+EditorSettings.asset
+EditorUserBuildSettings.asset
+expandedItems
+FailedAssetImports.txt
+guidmapper
+InspectorExpandedItems.asset
+MonoManager.asset
+NetworkManager.asset
+ScriptMapperProjectSettings/GraphicsSettings.asset
+
+MobiusUnity/ProjectSettings/GraphicsSettings.asset
+MobiusUnity/ProjectSettings/Physics2DSettings.asset
+MobiusUnity/ProjectSettings/ProjectSettings.asset
+MobiusUnity/ProjectSettings/QualitySettings.asset
+MobiusUnity/ProjectSettings/TimeManager.asset
+
+MobiusUnity/ProjectSettings/EditorBuildSettings.asset
+MobiusUnity/ProjectSettings/NavMeshLayers.asset
+MobiusUnity/ProjectSettings/TagManager.asset
+MobiusUnity/Assets/UFPS/
